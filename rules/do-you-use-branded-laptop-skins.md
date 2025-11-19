@@ -34,7 +34,6 @@ A strong laptop skin design should:
 * Fit correctly and be easy to apply  
 * Be durable enough to withstand daily use
 
-
 ### Rollout tips for your team
 
 * Provide skins during onboarding so every new team member starts branded  
